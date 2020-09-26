@@ -310,7 +310,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Sun: {fileID: 615867598}
-  SampleCount: 64
+  SampleCount: 16
   MaxRayLength: 400
   IncomingLight: {r: 4, g: 4, b: 4, a: 4}
   RayleighScatterCoef: 1
@@ -318,7 +318,7 @@ MonoBehaviour:
   MieScatterCoef: 1
   MieExtinctionCoef: 1
   MieG: 0.76
-  DistanceScale: 3
+  DistanceScale: 1
   SunIntensity: 1
 --- !u!1 &1529518245
 GameObject:
